@@ -17,4 +17,4 @@
 - I love open-source! Contributed to projects like: 🛠 [**Mechanic.design**](https://github.com/designsystemsinternational/mechanic), 🌸 [**p5.js**](https://github.com/processing/p5.js) and built a library: [**p5.genzine**](https://github.com/munusshih/p5.genzine)
 
 ### 💌 Let’s Connect!
-I'm always excited to meet new people! 🌟 Connect with me at [munusshih@gmail.com](mailto:munusshih@gmail.com) and let’s chat about solidarity economy, tool-making, critical pedagogy, and open source. Can't wait to hear from you! 💬💖
+I'm always excited to meet new people! 🌟 Connect with me at [**munusshih@gmail.com**](mailto:munusshih@gmail.com) and let’s chat about solidarity economy, tool-making, critical pedagogy, and open source. Can't wait to hear from you! 💬💖
