@@ -1,11 +1,12 @@
-### 👋 Hey there, I’m Munus Shih (he/they) 👨‍💻✨  
+# 👋 Hey there, I’m Munus Shih (he/they) 👨‍💻✨  
+
 **Creative Developer | Designer | Teacher | Organizer**
 
 🌍 Based in NYC | 🌈 Proudly Hakka Taiwanese
 
 ---
 
-### ⚡ Quick Intro
+### ⚡ About Me / What I do
 - I'm 1/2 of [**Munus & Niktari**](https://munusandniktari.com/), an **R&D&D** practice mixing design, code, and experimentation.
 - You can find my creative coding sketches at [**OpenProcessing**](https://openprocessing.org/user/261940).
 - I make fun design tools like: 🎨 [**Package Generator**](https://munusshih.github.io/layers-package/), 🖼 [**Poster Generator**](https://munusshih.github.io/angles-design/cosmos/cosmos.html), ✨ [**Generative Brand**](https://www.instagram.com/p/C2uyWkFuz-1/?img_index=1)
