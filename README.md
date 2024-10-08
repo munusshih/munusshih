@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Munus Shih (he/they) 👨‍💻✨  
+# 👋 Hey, I’m Munus Shih (he/they) 👨‍💻✨  
 
 **Creative Developer | Designer | Teacher | Organizer**
 
