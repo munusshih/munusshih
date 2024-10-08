@@ -2,7 +2,7 @@
 
 **Creative Developer | Designer | Teacher | Organizer**
 
-🌍 Based in NYC | 🌈 Proudly Hakka Taiwanese
+🌍 Based in NYC, 🌈🧋 Proudly Hakka Taiwanese
 
 ---
 
