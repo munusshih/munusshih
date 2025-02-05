@@ -13,7 +13,7 @@
 - Professionally, I’ve built websites for **Arts & Culture** clients like: 🎨 [**AIGA**](https://imageofthestudio.athleticsnyc.io/), 📖 [**New York Review of Books**](https://shop.nybooks.com/) and The New Museum
 
 ### 🎓 Teaching & OpenSource
-- I teach classes on [**Product Design**](https://adpd.dutyfree.school/), [**Creative Coding**](https://ci2-munus.dutyfree.school/), and ideas around [**Critical Code**](https://www.typeelectives.com/courses/techniculture-sp-24).
+- I teach classes on [**Product Design**](https://adpd.munusandniktari.com/), [**Creative Coding**](https://ci2-munus.munusandniktari.com/), and ideas around [**Critical Code**](https://www.typeelectives.com/courses/techniculture-sp-24).
 - I love open-source! Contributed to projects like: 🛠 [**Mechanic.design**](https://github.com/designsystemsinternational/mechanic), 🌸 [**p5.js**](https://github.com/processing/p5.js) and built a library: [**p5.genzine**](https://github.com/munusshih/p5.genzine)
 
 ### 💌 Let’s Connect!
